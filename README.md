@@ -3,6 +3,8 @@
 
 <img width="1451" height="789" alt="image" src="https://github.com/user-attachments/assets/a1e7640f-4939-4f0d-b1dc-7d8b562d30e1" />
 </br>
+<img width="1317" height="740" alt="image" src="https://github.com/user-attachments/assets/1e0905f7-5ac7-48ea-975e-2d3b08e64ee3" />
+</br>
 <h2>Power Automation</h2>
 
 <img width="1441" height="875" alt="image" src="https://github.com/user-attachments/assets/0be9e808-1eb9-4984-a57d-c0a5c5619812" />
